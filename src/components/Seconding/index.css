@@ -1,0 +1,73 @@
+.head{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-betweeen;
+    align-items:center;
+    gap:32px;
+    opacity: 0px;
+    margin-left:32px;
+    margin-right:32px;
+}
+
+.healer{
+    display:flex;
+    flex-direction:column
+}
+
+.headed{
+    display:flex;
+    flex-direction:column;
+    margin-left:350px;
+    
+}
+
+
+
+.sider{
+    display:flex;
+    flex-direction:row;
+    gap:24px;
+    margin-left:32px;
+    margin-right:32px;
+    
+}
+
+.sitting{
+    display:flex;
+    flex-direction:column;
+    width:384px;
+height: 444px;
+opacity: 0px;
+
+}
+
+
+.friendly{
+    display:flex;
+    flex-direction:row;
+    gap:8px;
+
+}
+
+.friend{
+    display:flex;
+    flex-direction:column;
+    gap:0px;
+}
+
+
+.logo7{
+    width: 384px;
+height: 240px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.logo8{
+    width: 40px;
+height:40px;
+gap: 0px;
+opacity: 0px;
+
+}

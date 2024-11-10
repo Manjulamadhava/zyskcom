@@ -1,0 +1,52 @@
+.featuring{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:100px;
+    gap:100px;
+}
+
+.highlight{
+    display:flex;
+    flex-direction:row;
+    margin-left:32px;
+}
+
+.light{
+    display:flex;
+    flex-direction:column;
+    width: 384px;
+    height: 222px;
+    gap: 20px;
+    opacity: 0px;
+
+}
+
+.sorting{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    gap:8px;
+}
+
+.logo3{
+    width: 17.67px;
+    height: 11.67px;
+
+}
+.Faqcontainer{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.imageminus{
+    width:30px;
+    height:20px;
+}
+
+.batchContainer{
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+}

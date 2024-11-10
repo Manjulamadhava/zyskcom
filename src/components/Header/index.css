@@ -1,0 +1,58 @@
+
+.header1{
+    display:flex;
+    flex-direction:row;
+    width: 1280px;
+    padding: 0px 32px 0px 32px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    margin-bottom:15px;
+    margin-left:300px;
+    border-bottom: 1px solid #F2F4F7
+
+}
+
+.header5{
+    
+   display:flex;
+   flex-direction:row;
+   gap:32px;
+}
+
+.header3{
+   display:flex;
+   flex-direction:row;
+   gap:32px;
+  
+}
+.header4{
+   display:flex;
+   flex-direction:row;
+   gap:32px;
+}
+
+.logo1{
+    height:28px;
+    width:142px;
+    gap:32px;
+   padding:10px;
+}
+.hello{
+    width:46px;
+    height:28px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #475467;
+
+
+}
+.logo2{
+    width:40p;
+    height:40px;
+}

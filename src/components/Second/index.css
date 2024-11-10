@@ -1,0 +1,25 @@
+.firsting{
+    display:flex;
+    flex-direction:column;
+    margin-left:300px;
+    gap:40px;
+}
+
+.seconding{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    margin-bottom:35px;
+}
+.thirding{
+    display:flex;
+    flex-direction:column;
+    width:384px;
+    height:178px;
+    margin:15px;
+}
+.img1{
+    width:43px;
+    height:43px;
+
+}
